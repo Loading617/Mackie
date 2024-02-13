@@ -1,2 +1,2 @@
 # Mackie
-### An Audiomack APK based on Audiomack
+An Audiomack APK based on Audiomack
